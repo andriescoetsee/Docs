@@ -5,6 +5,8 @@
 
 ## Here you will find an overview of concepts and learnings that I picked-up on the way.... 
 
+---
+
 ### [Dax Concept: Snapshot & Variance Report](https://github.com/andriescoetsee/dax_snapshot_variance_report.git) 
 
 ![](/images/powerBI_small2.png)
@@ -19,5 +21,6 @@
 ![](/images/python_image.png)
 
 * This is still work in progress, but watch this space
+* Here I  Would like to illustrate how I used a Monte Carlo simulation in Python to estimate parameters 
 
 ---
