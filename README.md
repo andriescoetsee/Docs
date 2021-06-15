@@ -1,7 +1,3 @@
----
-layout: page
-title: Documents
----
 
 # Welcome to Andries' documents 
 
