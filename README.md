@@ -1,5 +1,7 @@
 
-# Welcome to Andries' documents 
+# Welcome to Andries' documents
+
+![See this](https://github.com/andriescoetsee/Docs/images/files_picture.jpg "Logo Title Text 1")
 
 Here you will find an overview of concepts and learnings that I picked-up on the way.... 
 
