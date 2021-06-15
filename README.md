@@ -12,3 +12,12 @@
 * After completing my Microsoft Power BI certification I had the opportunity to get my hands dirty
 * Here I illustrate how I optimised a report using DAX measures 
 
+---
+
+### Monte Carlo Simulation: Digital Marketing CTR 
+
+![](/images/python_image.png)
+
+* This is still work in progress, but watch this space
+
+---
