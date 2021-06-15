@@ -1,7 +1,7 @@
 
 # Welcome to Andries' document files
 
-![](/images/files_picture_small.png)
+![](/images/files_picture.png)
 
 Here you will find an overview of concepts and learnings that I picked-up on the way.... 
 
