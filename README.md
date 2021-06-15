@@ -18,7 +18,7 @@
 
 ### [Monte Carlo Simulation: Digital Marketing CTR](https://github.com/andriescoetsee/Docs.git) 
 
-![](/images/python_image.png)
+![](/images/python_image3.png)
 
 * This is still work in progress, but watch this space
 * Here I  Would like to illustrate how I used a Monte Carlo simulation in Python to estimate parameters 
