@@ -7,7 +7,7 @@
 
 ---
 
-### [Dax Concept: Snapshot & Variance Report](https://github.com/andriescoetsee/dax_snapshot_variance_report) 
+### [Dax Concept: Snapshot & Variance Report](https://andriescoetsee.github.io/dax_snapshot_variance_report) 
 
 ![](/images/powerBI_small2.png)
 
