@@ -7,7 +7,7 @@
 
 ---
 
-### [Dax Concept: Snapshot & Variance Report](https://andriescoetsee.github.io/dax_snapshot_variance_report) 
+### [Dax Concept: Snapshot & Variance Report](https://andriescoetsee.github.io/dax_snapshot_variance_report) ![](/images/new_logo.png)
 
 ![](/images/powerBI_small2.png)
 
@@ -16,7 +16,7 @@
 
 ---
 
-### [Monte Carlo Simulation: Digital Marketing CTR](https://github.com/andriescoetsee/Docs.git) 
+### [Monte Carlo Simulation: Digital Marketing CTR](https://github.com/andriescoetsee/Docs.git) ![](/images/forthcoming_logo.png)
 
 ![](/images/python_image4.png)
 
@@ -24,3 +24,15 @@
 * Here I  Would like to illustrate how I used a Monte Carlo simulation in Python to estimate parameters 
 
 ---
+
+### [Django: My first website](https://github.com/andriescoetsee/my_first_website_Django) 
+
+ ![](/images/django_logo.png)
+ 
+ ---
+
+### [Android: My first mobile application](https://github.com/andriescoetsee/my_first_mobile_app_Android) 
+
+ ![](/images/android_logo.png)
+ 
+ ---
