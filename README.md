@@ -7,7 +7,7 @@
 
 ---
 
-### [Dax Concept: Snapshot & Variance Report](https://andriescoetsee.github.io/dax_snapshot_variance_report) ![](/images/new_logo.png)
+### [Dax Concept: Snapshot & Variance Report](https://andriescoetsee.github.io/dax_snapshot_variance_report) ![](/images/new_logo_small.png)
 
 ![](/images/powerBI_small2.png)
 
@@ -16,23 +16,30 @@
 
 ---
 
-### [Monte Carlo Simulation: Digital Marketing CTR](https://github.com/andriescoetsee/Docs.git) ![](/images/forthcoming_logo.png)
+### [Monte Carlo Simulation: Digital Marketing CTR](https://github.com/andriescoetsee/Docs.git) ![](/images/forthcoming_logo_small.png)
 
 ![](/images/python_image4.png)
 
 * This is still work in progress, but watch this space
-* Here I  Would like to illustrate how I used a Monte Carlo simulation in Python to estimate parameters 
+* Here I  would like to illustrate how I used a Monte Carlo simulation in Python to estimate parameters 
 
 ---
 
 ### [Django: My first website](https://github.com/andriescoetsee/my_first_website_Django) 
 
- ![](/images/django_logo.png)
+ ![](/images/django_python_logo_small.png)
  
+* This was my first website learning the Django framework. The main functionality was a calendar for scheduling events.
+* The website included a REST API to interface with an Android Mobile Application as well as an alerting mechanism through SMS.
+* The website was hosted on [PythonAnywhere](https://www.pythonanywhere.com) but I have not maintained it since 2018 and decided to terminate the website.
+
  ---
 
 ### [Android: My first mobile application](https://github.com/andriescoetsee/my_first_mobile_app_Android) 
 
- ![](/images/android_logo.png)
+ ![](/images/android_logo_small.png)
+ 
+* My first mobile application that worked in conjunction with my first website.
+* The mobile application provided information on upcoming events booked in the Calendar.
  
  ---
