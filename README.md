@@ -6,8 +6,8 @@
 ## Here you will find an overview of concepts and learnings that I picked-up on the way.... 
 
 ---
-
-### [Dax Concept: Snapshot & Variance Report](https://andriescoetsee.github.io/dax_snapshot_variance_report) ![](/images/new_logo_small.png)
+![](/images/new_logo_small.png)
+### [Dax Concept: Snapshot & Variance Report](https://andriescoetsee.github.io/dax_snapshot_variance_report) 
 
 ![](/images/powerBI_small2.png)
 
@@ -15,8 +15,8 @@
 * Here I illustrate how I optimised a report using DAX measures 
 
 ---
-
-### [Monte Carlo Simulation: Digital Marketing CTR](https://github.com/andriescoetsee/Docs.git) ![](/images/forthcoming_logo_small.png)
+![](/images/forthcoming_logo_small.png)
+### [Monte Carlo Simulation: Digital Marketing CTR](https://github.com/andriescoetsee/Docs.git) 
 
 ![](/images/python_image4.png)
 
