@@ -16,7 +16,7 @@
 
 ---
 
-### [Bayes Simulation: Digital Marketing CTR](https://andriescoetsee.github.io/bayes_ctr_simulation) 
+### [Bayes Simulation: Digital Marketing CTR](https://andriescoetsee.github.io/bayes_ctr_simulation/)
 ![](/images/python_image4.png)
 * After completing Bayesian Data Analysis in Python with Data Camp, I tried out posterior analysis on a digital marketing campaign dataset.
 * Here I illustrate using different libraries like Numpy, Seaborn and PyMC3, specifically focussing on analysing distributions the Bayesian way.
