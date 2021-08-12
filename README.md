@@ -20,8 +20,8 @@
 
 ![](/images/python_image4.png)
 
-* After completing Bayesian Data Analysis in Python with Data Camp I tried out my own posterior analysis on a digital marketing campaign data set.
-* Here I illustrate using differnt libraries like Numpy, Seaborn and PyMC3, specifically focussing on analysing distributions the Bayesian way
+* After completing Bayesian Data Analysis in Python with Data Camp, I tried out posterior analysis on a digital marketing campaign dataset.
+* Here I illustrate using differnt libraries like Numpy, Seaborn and PyMC3, specifically focussing on analysing distributions the Bayesian way.
 
 ---
 
