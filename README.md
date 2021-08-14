@@ -9,7 +9,7 @@
 
 ### [Kaggle: My first competition](https://github.com/andriescoetsee)
 ![](/images/kaggle_2.png)
-* Using a simple algorithm and I tried out Kaggle's platform and made a competition submission
+* Using a simple algorithm I tried out Kaggle's platform and made a competition submission
 
 
 ---
@@ -17,7 +17,7 @@
 ### [Scikit-learn: ML overfitting and underfitting](https://andriescoetsee.github.io/sklearn_overfitting_underfitting/)
 ![](/images/sklearn_2.png)
 * Here I explain the important statistical concepts of overfitting and underfitting in ML context.
-* I make use of python's scikit-learn library to illustrate the concept
+* I make use of Python's scikit-learn library to illustrate the concept.
 
 ---
 
