@@ -7,9 +7,10 @@
 
 ---
 
-### [Kaggle: My first competition](https://github.com/andriescoetsee)
+### [Kaggle: My first competition](https://kaggle.com/)
 ![](/images/kaggle_2.png)
-* Using a simple algorithm I tried out Kaggle's platform and made a competition submission
+* I would like to use a simple algorithm and try out Kaggle's platform to make a competition submission.
+* This is still WIP......watch this space....
 
 
 ---
