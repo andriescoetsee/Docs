@@ -7,6 +7,20 @@
 
 ---
 
+### [Kaggle: My first competition](https://github.com/andriescoetsee)
+![](/images/kaggle_2.png)
+* Using a simple algorithm and I tried out Kaggle's platform and made a competition submission
+
+
+---
+
+### [Scikit-learn: ML overfitting and underfitting](https://andriescoetsee.github.io/sklearn_overfitting_underfitting/)
+![](/images/sklearn_2.png)
+* Here I explain the important statistical concepts of overfitting and underfitting in ML context.
+* I make use of python's scikit-learn library to illustrate the concept
+
+---
+
 ### [Dax Concept: Snapshot & Variance Report](https://andriescoetsee.github.io/dax_snapshot_variance_report) 
 
 ![](/images/powerBI_small2.png)
@@ -17,7 +31,7 @@
 ---
 
 ### [Bayes Simulation: Digital Marketing CTR](https://andriescoetsee.github.io/bayes_ctr_simulation/)
-![](/images/python_image4.png)
+![](/images/PyMC3_2.png)
 * After completing Bayesian Data Analysis in Python with Data Camp, I tried out posterior analysis on a digital marketing campaign dataset.
 * Here I illustrate using different libraries like Numpy, Seaborn and PyMC3, specifically focussing on analysing distributions the Bayesian way.
 
