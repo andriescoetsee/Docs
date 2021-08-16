@@ -3,13 +3,13 @@
 
 ![](/images/files_picture_small.png)
 
-## Here you will find an overview of concepts and learnings that I picked-up on the way.... 
+### Here you will find an overview of concepts and learnings that I picked-up on the way.... 
 
 ---
 
 ### [Kaggle: My first competition](https://kaggle.com/)
 ![](/images/kaggle_2.png)
-* I'm using a simple ML algorithm to try out Kaggle's competition platform.
+* I'm using the XGBoost ML algorithm to try out Kaggle's competition platform.
 * This is still WIP......watch this space....
 
 
