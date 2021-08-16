@@ -9,7 +9,7 @@
 
 ### [Kaggle: My first competition](https://kaggle.com/)
 ![](/images/kaggle_2.png)
-* I would like to use a simple algorithm and try out Kaggle's platform to make a competition submission.
+* I'm using a simple ML algorithm to try out Kaggle's competition platform.
 * This is still WIP......watch this space....
 
 
@@ -17,7 +17,7 @@
 
 ### [Scikit-learn: ML overfitting and underfitting](https://andriescoetsee.github.io/sklearn_overfitting_underfitting/)
 ![](/images/sklearn_2.png)
-* Here I explain the important statistical concepts of overfitting and underfitting in ML context.
+* Here I explain the important statistical concepts of overfitting and underfitting in a ML context.
 * I make use of Python's scikit-learn library to illustrate the concept.
 
 ---
@@ -35,6 +35,7 @@
 ![](/images/PyMC3_2.png)
 * After completing Bayesian Data Analysis in Python with [Datacamp](https://www.datacamp.com/), I tried out posterior analysis on a digital marketing campaign dataset.
 * Here I illustrate using different libraries like Numpy, Seaborn and PyMC3, specifically focussing on analysing distributions the Bayesian way.
+* Next time I would like to illustrate Bayesian linear regression with PyMC3 and try out Markov Chain Monte Carlo simulations (MCMC). 
 
 ---
 
