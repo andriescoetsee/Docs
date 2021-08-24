@@ -7,7 +7,8 @@
 
 ---
 
-### [Kaggle: My first competition](https://kaggle.com/)
+### [Kaggle: My first competition](https://andriescoetsee.github.io/my_first_kaggle_competition)
+
 ![](/images/kaggle_2.png)
 * I'm using the XGBoost ML algorithm to try out Kaggle's competition platform.
 * This is still WIP......watch this space....
