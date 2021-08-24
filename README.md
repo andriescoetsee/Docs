@@ -10,8 +10,9 @@
 ### [Kaggle: My first competition](https://andriescoetsee.github.io/my_first_kaggle_competition)
 
 ![](/images/kaggle_2.png)
-* I tried out two ML algorithms: Extreme Gradient Boost (XGBoost) and Random Forest
+* I tried out two ML algorithms: Extreme Gradient Boost (XGBoost) and Random Forest Regression
 * I learnt about the Optuna Python package which is a new hyperparameter optimization tool
+* XGBoost is definitely superior in performance in processing time (using GPU) and in prediction accuracy
 
 
 ---
