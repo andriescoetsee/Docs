@@ -10,8 +10,8 @@
 ### [Kaggle: My first competition](https://andriescoetsee.github.io/my_first_kaggle_competition)
 
 ![](/images/kaggle_2.png)
-* I tried out 2 ML algorithms: Extreme Gradient Boost (XGBoost) and Random Forest.
-* I learnt about the Optuna python package which is a new hyperparameter optimization tool
+* I tried out two ML algorithms: Extreme Gradient Boost (XGBoost) and Random Forest
+* I learnt about the Optuna Python package which is a new hyperparameter optimization tool
 
 
 ---
