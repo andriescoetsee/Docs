@@ -17,7 +17,7 @@
 
 ---
 
-### [ML overfitting and underfitting](https://andriescoetsee.github.io/sklearn_overfitting_underfitting/)
+### [ML overfitting and underfitting](https://andriescoetsee.github.io/ml_overfitting_underfitting/)
 
 ![image](https://user-images.githubusercontent.com/34986276/130843510-b1b9aa21-f503-491f-82c7-9374cb0d73ef.png)
 
