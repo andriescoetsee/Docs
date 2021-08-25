@@ -23,6 +23,8 @@
 
 * Here I explain the important statistical concepts of overfitting and underfitting in a ML context.
 
+![image](https://user-images.githubusercontent.com/34986276/130843510-b1b9aa21-f503-491f-82c7-9374cb0d73ef.png)
+
 ---
 
 ### [Dax Concept: Snapshot & Variance Report](https://andriescoetsee.github.io/dax_snapshot_variance_report) 
