@@ -19,11 +19,11 @@
 
 ### [ML overfitting and underfitting](https://andriescoetsee.github.io/sklearn_overfitting_underfitting/)
 
-![image](https://user-images.githubusercontent.com/34986276/130843072-2a0d167f-735e-4680-a97a-2dade74740be.png)
+![image](https://user-images.githubusercontent.com/34986276/130843510-b1b9aa21-f503-491f-82c7-9374cb0d73ef.png)
 
 * Here I explain the important statistical concepts of overfitting and underfitting in a ML context.
 
-![image](https://user-images.githubusercontent.com/34986276/130843510-b1b9aa21-f503-491f-82c7-9374cb0d73ef.png)
+
 
 ---
 
