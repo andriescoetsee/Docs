@@ -9,7 +9,7 @@
 
 ### [Kaggle: My first competition](https://andriescoetsee.github.io/my_first_kaggle_competition)
 
-![](/images/kaggle_2.png)
+![](/images/kaggle_2.png) ![](/images/sklearn_2.png)
 * I tried out two ML algorithms: Extreme Gradient Boost (XGBoost) and Random Forest Regression
 * I learnt about the Optuna Python package which is a new hyperparameter optimization tool
 * XGBoost is definitely superior in performance in processing time (using GPU) and in prediction accuracy
@@ -17,8 +17,10 @@
 
 ---
 
-### [Scikit-learn: ML overfitting and underfitting](https://andriescoetsee.github.io/sklearn_overfitting_underfitting/)
-![](/images/sklearn_2.png)
+### [ML overfitting and underfitting](https://andriescoetsee.github.io/sklearn_overfitting_underfitting/)
+
+![image](https://user-images.githubusercontent.com/34986276/130841560-8edbbad5-c533-4a52-a644-d3ce8c1d3e95.png)
+
 * Here I explain the important statistical concepts of overfitting and underfitting in a ML context.
 * I make use of Python's scikit-learn library to illustrate the concept.
 
