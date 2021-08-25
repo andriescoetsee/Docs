@@ -19,10 +19,9 @@
 
 ### [ML overfitting and underfitting](https://andriescoetsee.github.io/sklearn_overfitting_underfitting/)
 
-![image](https://user-images.githubusercontent.com/34986276/130841560-8edbbad5-c533-4a52-a644-d3ce8c1d3e95.png)
+![image](https://user-images.githubusercontent.com/34986276/130842371-8aa532c1-891d-4cf0-a916-5328086de70c.png)
 
 * Here I explain the important statistical concepts of overfitting and underfitting in a ML context.
-* I make use of Python's scikit-learn library to illustrate the concept.
 
 ---
 
