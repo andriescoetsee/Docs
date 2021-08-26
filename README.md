@@ -19,12 +19,12 @@
 
 ### [ML overfitting and underfitting](https://andriescoetsee.github.io/ml_overfitting_underfitting/)
 
-![image](https://user-images.githubusercontent.com/34986276/130843510-b1b9aa21-f503-491f-82c7-9374cb0d73ef.png)
-```
-https://www.analyticsvidhya.com/blog/2020/02/underfitting-overfitting-best-fitting-machine-learning/
-```
 * Here I explain the important statistical concepts of overfitting and underfitting in a ML context.
 
+![image](https://user-images.githubusercontent.com/34986276/130843510-b1b9aa21-f503-491f-82c7-9374cb0d73ef.png)
+```
+Picture from https://www.analyticsvidhya.com/blog/2020/02/underfitting-overfitting-best-fitting-machine-learning/
+```
 ---
 
 ### [Dax Concept: Snapshot & Variance Report](https://andriescoetsee.github.io/dax_snapshot_variance_report) 
