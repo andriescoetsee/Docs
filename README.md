@@ -7,6 +7,18 @@
 
 ---
 
+### [PySpark: Advanced Analytics with Big Data, here we come!](https://andriescoetsee.github.io/Docs/)
+
+<img src="https://user-images.githubusercontent.com/34986276/132637996-085a0c74-3f64-4aa6-970e-08d16fac5d45.png" width="120" height="70">
+
+* I attended a webinar: Big Data Processing on AWS Elastic MapReduce (EMR) using Hadoop & Spark.
+* Through this webinar I could get a glimpse of the future of big data proccessing in the cloud. 
+* Personally, my interest lies in advanced analytics, so I decided to skill up on using Apache Spark as a big data platform. 
+
+
+
+---
+
 ### [Kaggle: My first competition](https://andriescoetsee.github.io/my_first_kaggle_competition)
 
 ![](/images/kaggle_2.png) ![](/images/sklearn_2.png)
