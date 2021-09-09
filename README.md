@@ -7,7 +7,7 @@
 
 ---
 
-### [PySpark: Advanced Analytics with Big Data, here we come!](https://andriescoetsee.github.io/Docs/)
+### [PySpark: Advanced Analytics with Big Data, here we come!](https://andriescoetsee.github.io/pyspark_advanced_analytics/)
 
 <img src="https://user-images.githubusercontent.com/34986276/132637996-085a0c74-3f64-4aa6-970e-08d16fac5d45.png" width="120" height="70">
 
