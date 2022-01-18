@@ -7,6 +7,18 @@
 
 ---
 
+
+### [Flask: Tracker App with Google Maps](https://andriescoetsee.github.io/tracker_app_with_flask/)
+
+<img src="https://user-images.githubusercontent.com/34986276/149941717-ed6d8f9a-dcbc-411b-89cf-c303be2c5098.png" width="120" height="70">
+
+* In this project I used Flask to capture address information interfacing with Google Maps.
+* Furthermore, I created a REST API that can be used by a Mobile App to track delivery location and status.
+* I tested the API with Postman but never got around to write the Mobile App (was thinking to use Kotlin or Xamerin)
+
+
+---
+
 ### [PySpark: Advanced Analytics with Big Data, here we come!](https://andriescoetsee.github.io/pyspark_advanced_analytics/)
 
 <img src="https://user-images.githubusercontent.com/34986276/132637996-085a0c74-3f64-4aa6-970e-08d16fac5d45.png" width="120" height="70">
